@@ -1,6 +1,7 @@
 <?php 
 /**
  * This Code Get FilePath from command line input and count published presentation in BBB record list file
+ * Also create a out file that kept unpublished records (internal id)
  * Written By : MH Malekian (mmalekian.ir)
  * PHP 8
  */
